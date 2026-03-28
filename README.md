@@ -1,3 +1,6 @@
 Logic Log
 
 To handle GitHub API rate limits, I limited the number of results using the per_page=5 query parameter. This reduces the number of API calls per execution and helps prevent hitting GitHub’s rate limits. Additionally, using a scheduled trigger ensures controlled and spaced API requests.
+
+Demo Video
+https://drive.google.com/file/d/1M2YOLidiMyXihZvN_ia83CvqbahNsDHg/view?usp=sharing
